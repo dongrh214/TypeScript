@@ -1,2 +1,2 @@
 # TypeScript
-TypeScript学习日志
+TypeScript学习记录
